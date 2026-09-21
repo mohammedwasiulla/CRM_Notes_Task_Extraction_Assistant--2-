@@ -1,0 +1,13 @@
+follow_up_category,default_owner_hint,description,manual_review_when
+pricing_quote,AE / RevOps,"Commercial quote, pricing band, billing model, or seat-count update.",Commercial exception or timing is unclear.
+technical_clarification,SE,"Technical questions, connector details, hosting, API limits, setup requirements.",Technical owner or customer environment details are missing.
+procurement_vendor_setup,RevOps / AE,"Vendor portal, tax/bank documents, PO path, procurement registration.","Portal status, documents, or owner is not clear."
+legal_security_review,LegalOps / InfoSec / AE,"DPA, security reports, subprocessor list, SOC2, security review reuse.",Legal/security owner is not stated or approval status is unclear.
+renewal_commercial,CSM / AE,"Renewal proposal, invoice clarification, renewal quote update.",Renewal dependency blocks quote reissue.
+demo_pilot,AE / SE / CSM,"Demo recap, import template, pilot check-in, trial enablement.",Meeting timing or owner is tentative.
+account_research,AE,"Reference accounts, use-case confirmation, account context collection.","Requester, owner, or source context is incomplete."
+proposal_collateral,AE / SE,"ROI summary, dashboard export sample, recap document, commercial pack.",Requested asset is vague or deadline missing.
+internal_approval,Sales Manager / RevOps,"Payment exception, package scope decision, manager approval.",Approval path is not stated.
+meeting_scheduling,AE / CSM,"Follow-up call, pilot check-in, next customer meeting.",Meeting time is tentative or owner unclear.
+crm_update,RevOps / AE,"Stage update, CRM evidence upload, metadata cleanup.",CRM state conflicts with note content.
+billing_clarification,RevOps / Billing,"Invoice line item, payment terms, billing clarification.",Commercial impact requires approval.

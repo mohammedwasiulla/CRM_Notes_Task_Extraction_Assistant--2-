@@ -1,0 +1,1002 @@
+[
+  {
+    "note_id": "CRM-0001",
+    "account_alias": "Account-FQL-1001",
+    "crm_ready_summary": "Account-FQL-1001 requires 4 follow-up item(s) after procurement update. Primary focus is demo pilot. Current blocker: Demo follow-up; owner unclear. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "owner is not clearly identified in the note; timing is vague or tentative; note context flagged: 'unclear'",
+    "action_count": 4
+  },
+  {
+    "note_id": "CRM-0002",
+    "account_alias": "Account-FQL-1002",
+    "crm_ready_summary": "Account-FQL-1002 requires 3 follow-up item(s) after sales call. Primary focus is renewal commercial. Current blocker: Billing clarification. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "renewal_commercial",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0003",
+    "account_alias": "Account-FQL-1003",
+    "crm_ready_summary": "Account-FQL-1003 requires 3 follow-up item(s) after partner handover. Primary focus is pricing quote. Current blocker: Competitive review. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0004",
+    "account_alias": "Account-FQL-1004",
+    "crm_ready_summary": "Account-FQL-1004 requires 3 follow-up item(s) after technical clarification call. Primary focus is pricing quote. Current blocker: Quote revision. Overall priority is High; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "High",
+    "manual_review_required": "Yes",
+    "reason_for_review": "note context flagged: 'messy'",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0005",
+    "account_alias": "Account-FQL-1005",
+    "crm_ready_summary": "Account-FQL-1005 requires 3 follow-up item(s) after technical clarification call. Primary focus is procurement vendor setup. Current blocker: Vendor registration incomplete. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0006",
+    "account_alias": "Account-FQL-1006",
+    "crm_ready_summary": "Account-FQL-1006 requires 3 follow-up item(s) after procurement update. Primary focus is demo pilot. Current blocker: Pilot enablement. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0007",
+    "account_alias": "Account-FQL-1007",
+    "crm_ready_summary": "Account-FQL-1007 requires 2 follow-up item(s) after demo follow-up. Primary focus is technical clarification. Current blocker: Reporting gaps. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0008",
+    "account_alias": "Account-FQL-1008",
+    "crm_ready_summary": "Account-FQL-1008 requires 2 follow-up item(s) after technical clarification call. Primary focus is legal security review. Current blocker: DPA closure pending. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "legal_security_review",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0009",
+    "account_alias": "Account-FQL-1009",
+    "crm_ready_summary": "Account-FQL-1009 requires 2 follow-up item(s) after email summary. Primary focus is technical clarification. Current blocker: Early-stage info request. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0010",
+    "account_alias": "Account-FQL-1010",
+    "crm_ready_summary": "Account-FQL-1010 requires 2 follow-up item(s) after internal pipeline review. Primary focus is pricing quote. Current blocker: Payment exception approval. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0011",
+    "account_alias": "Account-FQL-1011",
+    "crm_ready_summary": "Account-FQL-1011 requires 2 follow-up item(s) after email summary. Primary focus is technical clarification. Current blocker: Reopened opportunity context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0012",
+    "account_alias": "Account-FQL-1012",
+    "crm_ready_summary": "Account-FQL-1012 requires 2 follow-up item(s) after internal pipeline review. Primary focus is procurement vendor setup. Current blocker: CRM stage update. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0013",
+    "account_alias": "Account-FQL-1013",
+    "crm_ready_summary": "Account-FQL-1013 requires 2 follow-up item(s) after account review. Primary focus is account research. Current blocker: Insufficient partner context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "account_research",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found; note context flagged: 'partner handover'",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0014",
+    "account_alias": "Account-FQL-1014",
+    "crm_ready_summary": "Account-FQL-1014 requires 2 follow-up item(s) after procurement update. Primary focus is technical clarification. Current blocker: Security questionnaire pending. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0015",
+    "account_alias": "Account-FQL-1015",
+    "crm_ready_summary": "Account-FQL-1015 requires 4 follow-up item(s) after procurement update. Primary focus is demo pilot. Current blocker: Demo follow-up; owner unclear. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "owner is not clearly identified in the note; timing is vague or tentative; note context flagged: 'unclear'",
+    "action_count": 4
+  },
+  {
+    "note_id": "CRM-0016",
+    "account_alias": "Account-FQL-1016",
+    "crm_ready_summary": "Account-FQL-1016 requires 3 follow-up item(s) after demo follow-up. Primary focus is renewal commercial. Current blocker: Billing clarification. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "renewal_commercial",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0017",
+    "account_alias": "Account-FQL-1017",
+    "crm_ready_summary": "Account-FQL-1017 requires 3 follow-up item(s) after technical clarification call. Primary focus is pricing quote. Current blocker: Competitive review. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0018",
+    "account_alias": "Account-FQL-1018",
+    "crm_ready_summary": "Account-FQL-1018 requires 3 follow-up item(s) after demo follow-up. Primary focus is pricing quote. Current blocker: Quote revision. Overall priority is High; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "High",
+    "manual_review_required": "Yes",
+    "reason_for_review": "note context flagged: 'messy'",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0019",
+    "account_alias": "Account-FQL-1019",
+    "crm_ready_summary": "Account-FQL-1019 requires 3 follow-up item(s) after account review. Primary focus is procurement vendor setup. Current blocker: Vendor registration incomplete. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0020",
+    "account_alias": "Account-FQL-1020",
+    "crm_ready_summary": "Account-FQL-1020 requires 3 follow-up item(s) after technical clarification call. Primary focus is demo pilot. Current blocker: Pilot enablement. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0021",
+    "account_alias": "Account-FQL-1021",
+    "crm_ready_summary": "Account-FQL-1021 requires 2 follow-up item(s) after sales call. Primary focus is technical clarification. Current blocker: Reporting gaps. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0022",
+    "account_alias": "Account-FQL-1022",
+    "crm_ready_summary": "Account-FQL-1022 requires 2 follow-up item(s) after sales call. Primary focus is legal security review. Current blocker: DPA closure pending. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "legal_security_review",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0023",
+    "account_alias": "Account-FQL-1023",
+    "crm_ready_summary": "Account-FQL-1023 requires 2 follow-up item(s) after email summary. Primary focus is pricing quote. Current blocker: Early-stage info request. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0024",
+    "account_alias": "Account-FQL-1024",
+    "crm_ready_summary": "Account-FQL-1024 requires 2 follow-up item(s) after renewal check-in. Primary focus is pricing quote. Current blocker: Payment exception approval. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0025",
+    "account_alias": "Account-FQL-1025",
+    "crm_ready_summary": "Account-FQL-1025 requires 2 follow-up item(s) after demo follow-up. Primary focus is technical clarification. Current blocker: Reopened opportunity context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0026",
+    "account_alias": "Account-FQL-1026",
+    "crm_ready_summary": "Account-FQL-1026 requires 2 follow-up item(s) after email summary. Primary focus is procurement vendor setup. Current blocker: CRM stage update. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0027",
+    "account_alias": "Account-FQL-1027",
+    "crm_ready_summary": "Account-FQL-1027 requires 2 follow-up item(s) after partner handover. Primary focus is account research. Current blocker: Insufficient partner context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "account_research",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found; note context flagged: 'partner handover'",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0028",
+    "account_alias": "Account-FQL-1028",
+    "crm_ready_summary": "Account-FQL-1028 requires 2 follow-up item(s) after email summary. Primary focus is technical clarification. Current blocker: Security questionnaire pending. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0029",
+    "account_alias": "Account-FQL-1029",
+    "crm_ready_summary": "Account-FQL-1029 requires 4 follow-up item(s) after email summary. Primary focus is demo pilot. Current blocker: Demo follow-up; owner unclear. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "owner is not clearly identified in the note; timing is vague or tentative; note context flagged: 'unclear'",
+    "action_count": 4
+  },
+  {
+    "note_id": "CRM-0030",
+    "account_alias": "Account-FQL-1030",
+    "crm_ready_summary": "Account-FQL-1030 requires 3 follow-up item(s) after partner handover. Primary focus is renewal commercial. Current blocker: Billing clarification. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "renewal_commercial",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0031",
+    "account_alias": "Account-FQL-1031",
+    "crm_ready_summary": "Account-FQL-1031 requires 3 follow-up item(s) after partner handover. Primary focus is pricing quote. Current blocker: Competitive review. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0032",
+    "account_alias": "Account-FQL-1032",
+    "crm_ready_summary": "Account-FQL-1032 requires 3 follow-up item(s) after demo follow-up. Primary focus is pricing quote. Current blocker: Quote revision. Overall priority is High; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "High",
+    "manual_review_required": "Yes",
+    "reason_for_review": "note context flagged: 'messy'",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0033",
+    "account_alias": "Account-FQL-1033",
+    "crm_ready_summary": "Account-FQL-1033 requires 3 follow-up item(s) after renewal check-in. Primary focus is procurement vendor setup. Current blocker: Vendor registration incomplete. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0034",
+    "account_alias": "Account-FQL-1034",
+    "crm_ready_summary": "Account-FQL-1034 requires 3 follow-up item(s) after technical clarification call. Primary focus is demo pilot. Current blocker: Pilot enablement. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0035",
+    "account_alias": "Account-FQL-1035",
+    "crm_ready_summary": "Account-FQL-1035 requires 2 follow-up item(s) after procurement update. Primary focus is technical clarification. Current blocker: Reporting gaps. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0036",
+    "account_alias": "Account-FQL-1036",
+    "crm_ready_summary": "Account-FQL-1036 requires 2 follow-up item(s) after partner handover. Primary focus is legal security review. Current blocker: DPA closure pending. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "legal_security_review",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0037",
+    "account_alias": "Account-FQL-1037",
+    "crm_ready_summary": "Account-FQL-1037 requires 2 follow-up item(s) after procurement update. Primary focus is pricing quote. Current blocker: Early-stage info request. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0038",
+    "account_alias": "Account-FQL-1038",
+    "crm_ready_summary": "Account-FQL-1038 requires 2 follow-up item(s) after renewal check-in. Primary focus is pricing quote. Current blocker: Payment exception approval. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0039",
+    "account_alias": "Account-FQL-1039",
+    "crm_ready_summary": "Account-FQL-1039 requires 2 follow-up item(s) after sales call. Primary focus is technical clarification. Current blocker: Reopened opportunity context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0040",
+    "account_alias": "Account-FQL-1040",
+    "crm_ready_summary": "Account-FQL-1040 requires 2 follow-up item(s) after internal pipeline review. Primary focus is procurement vendor setup. Current blocker: CRM stage update. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0041",
+    "account_alias": "Account-FQL-1041",
+    "crm_ready_summary": "Account-FQL-1041 requires 2 follow-up item(s) after partner handover. Primary focus is account research. Current blocker: Insufficient partner context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "account_research",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found; note context flagged: 'partner handover'",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0042",
+    "account_alias": "Account-FQL-1042",
+    "crm_ready_summary": "Account-FQL-1042 requires 2 follow-up item(s) after renewal check-in. Primary focus is technical clarification. Current blocker: Security questionnaire pending. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0043",
+    "account_alias": "Account-FQL-1043",
+    "crm_ready_summary": "Account-FQL-1043 requires 4 follow-up item(s) after account review. Primary focus is demo pilot. Current blocker: Demo follow-up; owner unclear. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "owner is not clearly identified in the note; timing is vague or tentative; note context flagged: 'unclear'",
+    "action_count": 4
+  },
+  {
+    "note_id": "CRM-0044",
+    "account_alias": "Account-FQL-1044",
+    "crm_ready_summary": "Account-FQL-1044 requires 3 follow-up item(s) after account review. Primary focus is renewal commercial. Current blocker: Billing clarification. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "renewal_commercial",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0045",
+    "account_alias": "Account-FQL-1045",
+    "crm_ready_summary": "Account-FQL-1045 requires 3 follow-up item(s) after procurement update. Primary focus is pricing quote. Current blocker: Competitive review. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0046",
+    "account_alias": "Account-FQL-1046",
+    "crm_ready_summary": "Account-FQL-1046 requires 3 follow-up item(s) after procurement update. Primary focus is pricing quote. Current blocker: Quote revision. Overall priority is High; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "High",
+    "manual_review_required": "Yes",
+    "reason_for_review": "note context flagged: 'messy'",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0047",
+    "account_alias": "Account-FQL-1047",
+    "crm_ready_summary": "Account-FQL-1047 requires 3 follow-up item(s) after account review. Primary focus is procurement vendor setup. Current blocker: Vendor registration incomplete. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0048",
+    "account_alias": "Account-FQL-1048",
+    "crm_ready_summary": "Account-FQL-1048 requires 3 follow-up item(s) after partner handover. Primary focus is demo pilot. Current blocker: Pilot enablement. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0049",
+    "account_alias": "Account-FQL-1049",
+    "crm_ready_summary": "Account-FQL-1049 requires 2 follow-up item(s) after partner handover. Primary focus is technical clarification. Current blocker: Reporting gaps. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0050",
+    "account_alias": "Account-FQL-1050",
+    "crm_ready_summary": "Account-FQL-1050 requires 2 follow-up item(s) after technical clarification call. Primary focus is legal security review. Current blocker: DPA closure pending. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "legal_security_review",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0051",
+    "account_alias": "Account-FQL-1051",
+    "crm_ready_summary": "Account-FQL-1051 requires 2 follow-up item(s) after account review. Primary focus is pricing quote. Current blocker: Early-stage info request. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0052",
+    "account_alias": "Account-FQL-1052",
+    "crm_ready_summary": "Account-FQL-1052 requires 2 follow-up item(s) after procurement update. Primary focus is pricing quote. Current blocker: Payment exception approval. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0053",
+    "account_alias": "Account-FQL-1053",
+    "crm_ready_summary": "Account-FQL-1053 requires 2 follow-up item(s) after email summary. Primary focus is technical clarification. Current blocker: Reopened opportunity context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0054",
+    "account_alias": "Account-FQL-1054",
+    "crm_ready_summary": "Account-FQL-1054 requires 2 follow-up item(s) after procurement update. Primary focus is procurement vendor setup. Current blocker: CRM stage update. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0055",
+    "account_alias": "Account-FQL-1055",
+    "crm_ready_summary": "Account-FQL-1055 requires 2 follow-up item(s) after demo follow-up. Primary focus is technical clarification. Current blocker: Insufficient partner context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found; note context flagged: 'partner handover'",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0056",
+    "account_alias": "Account-FQL-1056",
+    "crm_ready_summary": "Account-FQL-1056 requires 2 follow-up item(s) after sales call. Primary focus is technical clarification. Current blocker: Security questionnaire pending. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0057",
+    "account_alias": "Account-FQL-1057",
+    "crm_ready_summary": "Account-FQL-1057 requires 4 follow-up item(s) after email summary. Primary focus is demo pilot. Current blocker: Demo follow-up; owner unclear. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "owner is not clearly identified in the note; timing is vague or tentative; note context flagged: 'unclear'",
+    "action_count": 4
+  },
+  {
+    "note_id": "CRM-0058",
+    "account_alias": "Account-FQL-1058",
+    "crm_ready_summary": "Account-FQL-1058 requires 3 follow-up item(s) after email summary. Primary focus is renewal commercial. Current blocker: Billing clarification. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "renewal_commercial",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0059",
+    "account_alias": "Account-FQL-1059",
+    "crm_ready_summary": "Account-FQL-1059 requires 3 follow-up item(s) after email summary. Primary focus is pricing quote. Current blocker: Competitive review. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0060",
+    "account_alias": "Account-FQL-1060",
+    "crm_ready_summary": "Account-FQL-1060 requires 3 follow-up item(s) after account review. Primary focus is pricing quote. Current blocker: Quote revision. Overall priority is High; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "High",
+    "manual_review_required": "Yes",
+    "reason_for_review": "note context flagged: 'messy'",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0061",
+    "account_alias": "Account-FQL-1061",
+    "crm_ready_summary": "Account-FQL-1061 requires 3 follow-up item(s) after partner handover. Primary focus is procurement vendor setup. Current blocker: Vendor registration incomplete. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0062",
+    "account_alias": "Account-FQL-1062",
+    "crm_ready_summary": "Account-FQL-1062 requires 3 follow-up item(s) after internal pipeline review. Primary focus is demo pilot. Current blocker: Pilot enablement. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0063",
+    "account_alias": "Account-FQL-1063",
+    "crm_ready_summary": "Account-FQL-1063 requires 2 follow-up item(s) after renewal check-in. Primary focus is technical clarification. Current blocker: Reporting gaps. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0064",
+    "account_alias": "Account-FQL-1064",
+    "crm_ready_summary": "Account-FQL-1064 requires 2 follow-up item(s) after email summary. Primary focus is legal security review. Current blocker: DPA closure pending. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "legal_security_review",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0065",
+    "account_alias": "Account-FQL-1065",
+    "crm_ready_summary": "Account-FQL-1065 requires 2 follow-up item(s) after email summary. Primary focus is pricing quote. Current blocker: Early-stage info request. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0066",
+    "account_alias": "Account-FQL-1066",
+    "crm_ready_summary": "Account-FQL-1066 requires 2 follow-up item(s) after technical clarification call. Primary focus is pricing quote. Current blocker: Payment exception approval. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0067",
+    "account_alias": "Account-FQL-1067",
+    "crm_ready_summary": "Account-FQL-1067 requires 2 follow-up item(s) after sales call. Primary focus is technical clarification. Current blocker: Reopened opportunity context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0068",
+    "account_alias": "Account-FQL-1068",
+    "crm_ready_summary": "Account-FQL-1068 requires 2 follow-up item(s) after account review. Primary focus is procurement vendor setup. Current blocker: CRM stage update. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0069",
+    "account_alias": "Account-FQL-1069",
+    "crm_ready_summary": "Account-FQL-1069 requires 2 follow-up item(s) after account review. Primary focus is account research. Current blocker: Insufficient partner context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "account_research",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found; note context flagged: 'partner handover'",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0070",
+    "account_alias": "Account-FQL-1070",
+    "crm_ready_summary": "Account-FQL-1070 requires 2 follow-up item(s) after internal pipeline review. Primary focus is technical clarification. Current blocker: Security questionnaire pending. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0071",
+    "account_alias": "Account-FQL-1071",
+    "crm_ready_summary": "Account-FQL-1071 requires 4 follow-up item(s) after demo follow-up. Primary focus is demo pilot. Current blocker: Demo follow-up; owner unclear. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "owner is not clearly identified in the note; timing is vague or tentative; note context flagged: 'unclear'",
+    "action_count": 4
+  },
+  {
+    "note_id": "CRM-0072",
+    "account_alias": "Account-FQL-1072",
+    "crm_ready_summary": "Account-FQL-1072 requires 3 follow-up item(s) after partner handover. Primary focus is renewal commercial. Current blocker: Billing clarification. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "renewal_commercial",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0073",
+    "account_alias": "Account-FQL-1073",
+    "crm_ready_summary": "Account-FQL-1073 requires 3 follow-up item(s) after email summary. Primary focus is pricing quote. Current blocker: Competitive review. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0074",
+    "account_alias": "Account-FQL-1074",
+    "crm_ready_summary": "Account-FQL-1074 requires 3 follow-up item(s) after internal pipeline review. Primary focus is pricing quote. Current blocker: Quote revision. Overall priority is High; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "High",
+    "manual_review_required": "Yes",
+    "reason_for_review": "note context flagged: 'messy'",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0075",
+    "account_alias": "Account-FQL-1075",
+    "crm_ready_summary": "Account-FQL-1075 requires 3 follow-up item(s) after email summary. Primary focus is procurement vendor setup. Current blocker: Vendor registration incomplete. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0076",
+    "account_alias": "Account-FQL-1076",
+    "crm_ready_summary": "Account-FQL-1076 requires 3 follow-up item(s) after renewal check-in. Primary focus is demo pilot. Current blocker: Pilot enablement. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0077",
+    "account_alias": "Account-FQL-1077",
+    "crm_ready_summary": "Account-FQL-1077 requires 2 follow-up item(s) after renewal check-in. Primary focus is technical clarification. Current blocker: Reporting gaps. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0078",
+    "account_alias": "Account-FQL-1078",
+    "crm_ready_summary": "Account-FQL-1078 requires 2 follow-up item(s) after email summary. Primary focus is legal security review. Current blocker: DPA closure pending. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "legal_security_review",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0079",
+    "account_alias": "Account-FQL-1079",
+    "crm_ready_summary": "Account-FQL-1079 requires 2 follow-up item(s) after technical clarification call. Primary focus is pricing quote. Current blocker: Early-stage info request. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0080",
+    "account_alias": "Account-FQL-1080",
+    "crm_ready_summary": "Account-FQL-1080 requires 2 follow-up item(s) after procurement update. Primary focus is pricing quote. Current blocker: Payment exception approval. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0081",
+    "account_alias": "Account-FQL-1081",
+    "crm_ready_summary": "Account-FQL-1081 requires 2 follow-up item(s) after renewal check-in. Primary focus is technical clarification. Current blocker: Reopened opportunity context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0082",
+    "account_alias": "Account-FQL-1082",
+    "crm_ready_summary": "Account-FQL-1082 requires 2 follow-up item(s) after account review. Primary focus is procurement vendor setup. Current blocker: CRM stage update. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0083",
+    "account_alias": "Account-FQL-1083",
+    "crm_ready_summary": "Account-FQL-1083 requires 2 follow-up item(s) after email summary. Primary focus is account research. Current blocker: Insufficient partner context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "account_research",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found; note context flagged: 'partner handover'",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0084",
+    "account_alias": "Account-FQL-1084",
+    "crm_ready_summary": "Account-FQL-1084 requires 2 follow-up item(s) after sales call. Primary focus is technical clarification. Current blocker: Security questionnaire pending. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0085",
+    "account_alias": "Account-FQL-1085",
+    "crm_ready_summary": "Account-FQL-1085 requires 4 follow-up item(s) after sales call. Primary focus is demo pilot. Current blocker: Demo follow-up; owner unclear. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "owner is not clearly identified in the note; timing is vague or tentative; note context flagged: 'unclear'",
+    "action_count": 4
+  },
+  {
+    "note_id": "CRM-0086",
+    "account_alias": "Account-FQL-1086",
+    "crm_ready_summary": "Account-FQL-1086 requires 3 follow-up item(s) after renewal check-in. Primary focus is renewal commercial. Current blocker: Billing clarification. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "renewal_commercial",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0087",
+    "account_alias": "Account-FQL-1087",
+    "crm_ready_summary": "Account-FQL-1087 requires 3 follow-up item(s) after sales call. Primary focus is pricing quote. Current blocker: Competitive review. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0088",
+    "account_alias": "Account-FQL-1088",
+    "crm_ready_summary": "Account-FQL-1088 requires 3 follow-up item(s) after renewal check-in. Primary focus is pricing quote. Current blocker: Quote revision. Overall priority is High; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "High",
+    "manual_review_required": "Yes",
+    "reason_for_review": "note context flagged: 'messy'",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0089",
+    "account_alias": "Account-FQL-1089",
+    "crm_ready_summary": "Account-FQL-1089 requires 3 follow-up item(s) after email summary. Primary focus is procurement vendor setup. Current blocker: Vendor registration incomplete. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "procurement_vendor_setup",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0090",
+    "account_alias": "Account-FQL-1090",
+    "crm_ready_summary": "Account-FQL-1090 requires 3 follow-up item(s) after renewal check-in. Primary focus is demo pilot. Current blocker: Pilot enablement. Overall priority is Medium; manual review: No.",
+    "primary_follow_up_category": "demo_pilot",
+    "overall_priority": "Medium",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  },
+  {
+    "note_id": "CRM-0091",
+    "account_alias": "Account-FQL-1091",
+    "crm_ready_summary": "Account-FQL-1091 requires 2 follow-up item(s) after account review. Primary focus is technical clarification. Current blocker: Reporting gaps. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0092",
+    "account_alias": "Account-FQL-1092",
+    "crm_ready_summary": "Account-FQL-1092 requires 2 follow-up item(s) after procurement update. Primary focus is legal security review. Current blocker: DPA closure pending. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "legal_security_review",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0093",
+    "account_alias": "Account-FQL-1093",
+    "crm_ready_summary": "Account-FQL-1093 requires 2 follow-up item(s) after technical clarification call. Primary focus is pricing quote. Current blocker: Early-stage info request. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0094",
+    "account_alias": "Account-FQL-1094",
+    "crm_ready_summary": "Account-FQL-1094 requires 2 follow-up item(s) after procurement update. Primary focus is pricing quote. Current blocker: Payment exception approval. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "pricing_quote",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0095",
+    "account_alias": "Account-FQL-1095",
+    "crm_ready_summary": "Account-FQL-1095 requires 2 follow-up item(s) after internal pipeline review. Primary focus is technical clarification. Current blocker: Reopened opportunity context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0096",
+    "account_alias": "Account-FQL-1096",
+    "crm_ready_summary": "Account-FQL-1096 requires 2 follow-up item(s) after demo follow-up. Primary focus is technical clarification. Current blocker: CRM stage update. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0097",
+    "account_alias": "Account-FQL-1097",
+    "crm_ready_summary": "Account-FQL-1097 requires 2 follow-up item(s) after sales call. Primary focus is account research. Current blocker: Insufficient partner context. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "account_research",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found; note context flagged: 'partner handover'",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0098",
+    "account_alias": "Account-FQL-1098",
+    "crm_ready_summary": "Account-FQL-1098 requires 2 follow-up item(s) after sales call. Primary focus is technical clarification. Current blocker: Security questionnaire pending. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "no timing reference found",
+    "action_count": 2
+  },
+  {
+    "note_id": "CRM-0099",
+    "account_alias": "Account-FQL-1099",
+    "crm_ready_summary": "Account-FQL-1099 requires 4 follow-up item(s) after email summary. Primary focus is technical clarification. Current blocker: Demo follow-up; owner unclear. Overall priority is Medium; manual review: Yes.",
+    "primary_follow_up_category": "technical_clarification",
+    "overall_priority": "Medium",
+    "manual_review_required": "Yes",
+    "reason_for_review": "owner is not clearly identified in the note; timing is vague or tentative; note context flagged: 'unclear'",
+    "action_count": 4
+  },
+  {
+    "note_id": "CRM-0100",
+    "account_alias": "Account-FQL-1100",
+    "crm_ready_summary": "Account-FQL-1100 requires 3 follow-up item(s) after demo follow-up. Primary focus is renewal commercial. Current blocker: Billing clarification. Overall priority is High; manual review: No.",
+    "primary_follow_up_category": "renewal_commercial",
+    "overall_priority": "High",
+    "manual_review_required": "No",
+    "reason_for_review": "No major ambiguity beyond normal sales-ops review.",
+    "action_count": 3
+  }
+]

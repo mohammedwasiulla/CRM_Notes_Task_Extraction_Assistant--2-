@@ -1,0 +1,12 @@
+=== Evaluation vs. reference dataset ===
+Notes evaluated: 100
+Action count within +/-1 of reference: 92/100 (92%)
+Owner presence (has-owner vs blank) agreement: 192/221 (87%)
+Correctly left due_date blank when reference is vague: 114/128 (89%)
+manual_review_required flag agreement (note level): 65/100 (65%)
+
+Note: exact wording, exact owner IDs (e.g. 'AE-02' vs 'AE'), and
+exact due-date-to-the-day matches are NOT scored here -- the
+reference file's specific owner numbering was hand-authored and
+is not fully derivable from note text alone. See
+assumptions_and_limitations.md for details.

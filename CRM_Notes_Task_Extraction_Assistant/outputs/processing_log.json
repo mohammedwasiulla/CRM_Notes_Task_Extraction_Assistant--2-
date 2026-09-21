@@ -1,0 +1,602 @@
+[
+  {
+    "note_id": "CRM-0001",
+    "actions_found": 4,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0002",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "renewal_commercial"
+  },
+  {
+    "note_id": "CRM-0003",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0004",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0005",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0006",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0007",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0008",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "legal_security_review"
+  },
+  {
+    "note_id": "CRM-0009",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0010",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0011",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0012",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0013",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "account_research"
+  },
+  {
+    "note_id": "CRM-0014",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0015",
+    "actions_found": 4,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0016",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "renewal_commercial"
+  },
+  {
+    "note_id": "CRM-0017",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0018",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0019",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0020",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0021",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0022",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "legal_security_review"
+  },
+  {
+    "note_id": "CRM-0023",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0024",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0025",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0026",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0027",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "account_research"
+  },
+  {
+    "note_id": "CRM-0028",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0029",
+    "actions_found": 4,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0030",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "renewal_commercial"
+  },
+  {
+    "note_id": "CRM-0031",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0032",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0033",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0034",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0035",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0036",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "legal_security_review"
+  },
+  {
+    "note_id": "CRM-0037",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0038",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0039",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0040",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0041",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "account_research"
+  },
+  {
+    "note_id": "CRM-0042",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0043",
+    "actions_found": 4,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0044",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "renewal_commercial"
+  },
+  {
+    "note_id": "CRM-0045",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0046",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0047",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0048",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0049",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0050",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "legal_security_review"
+  },
+  {
+    "note_id": "CRM-0051",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0052",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0053",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0054",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0055",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0056",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0057",
+    "actions_found": 4,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0058",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "renewal_commercial"
+  },
+  {
+    "note_id": "CRM-0059",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0060",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0061",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0062",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0063",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0064",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "legal_security_review"
+  },
+  {
+    "note_id": "CRM-0065",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0066",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0067",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0068",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0069",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "account_research"
+  },
+  {
+    "note_id": "CRM-0070",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0071",
+    "actions_found": 4,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0072",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "renewal_commercial"
+  },
+  {
+    "note_id": "CRM-0073",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0074",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0075",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0076",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0077",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0078",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "legal_security_review"
+  },
+  {
+    "note_id": "CRM-0079",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0080",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0081",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0082",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0083",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "account_research"
+  },
+  {
+    "note_id": "CRM-0084",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0085",
+    "actions_found": 4,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0086",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "renewal_commercial"
+  },
+  {
+    "note_id": "CRM-0087",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0088",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0089",
+    "actions_found": 3,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "procurement_vendor_setup"
+  },
+  {
+    "note_id": "CRM-0090",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "demo_pilot"
+  },
+  {
+    "note_id": "CRM-0091",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0092",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "legal_security_review"
+  },
+  {
+    "note_id": "CRM-0093",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0094",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "pricing_quote"
+  },
+  {
+    "note_id": "CRM-0095",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0096",
+    "actions_found": 2,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0097",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "account_research"
+  },
+  {
+    "note_id": "CRM-0098",
+    "actions_found": 2,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0099",
+    "actions_found": 4,
+    "manual_review_required": "Yes",
+    "primary_follow_up_category": "technical_clarification"
+  },
+  {
+    "note_id": "CRM-0100",
+    "actions_found": 3,
+    "manual_review_required": "No",
+    "primary_follow_up_category": "renewal_commercial"
+  }
+]

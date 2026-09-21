@@ -1,0 +1,236 @@
+action_id,note_id,action_text,suggested_owner,timing_reference,due_date_iso,priority,follow_up_category,blocker_dependency,confidence,manual_review_required,supporting_text
+ACT-0001-01,CRM-0001,Send one-page demo recap without pricing details,,early next week,,Medium,demo_pilot,,Medium,Yes,Champion asked if we can send a 1-page recap
+ACT-0001-02,CRM-0001,Confirm whether connector setup requires admin rights,SE-02,early next week,,Medium,technical_clarification,,Medium,No,confirm whether connector setup needs admin rights
+ACT-0002-01,CRM-0002,Clarify one-time onboarding line item on prior invoice,RevOps-01,before Wednesday,2026-04-07,High,billing_clarification,Billing clarification,High,No,Need billing clarification before renewal quote is reissued
+ACT-0002-02,CRM-0002,Send revised renewal proposal,AE-02,by Wednesday,2026-04-08,High,renewal_commercial,Billing clarification,High,No,AE to send renewal proposal by Wednesday if billing confirms
+ACT-0003-01,CRM-0003,Send customer references from similar saas operations accounts,AE-03,next Tue,2026-04-07,Medium,account_research,Competitive review,High,No,asked for customer references from similar saas operations accounts
+ACT-0003-02,CRM-0003,Prepare simple ROI summary,AE-03,next Tue,2026-04-07,Medium,proposal_collateral,Competitive review,High,No,want a simple ROI summary
+ACT-0003-03,CRM-0003,Confirm whether annual billing is mandatory,RevOps-01,next Tue,2026-04-07,Medium,pricing_quote,,High,No,procurement asked if annual billing is mandatory
+ACT-0004-01,CRM-0004,Send revised quote for 75 seats,AE-03,today,2026-04-06,High,pricing_quote,Quote revision,High,No,AE should send new quote today
+ACT-0004-02,CRM-0004,Answer hosting/data residency region question,SE-01,not urgent,,Low,technical_clarification,,Medium,No,SE maybe needs to answer hosting region question
+ACT-0004-03,CRM-0004,Confirm Friday 4pm follow-up call,AE-03,Friday 4pm tentative,2026-04-10,Medium,meeting_scheduling,,Medium,Yes,tentatively Friday 4pm but not confirmed
+ACT-0005-01,CRM-0005,Complete vendor portal fields and upload tax/bank documents,RevOps-01,as soon as possible,,High,procurement_vendor_setup,Vendor registration incomplete,High,No,RevOps to complete vendor portal fields
+ACT-0005-02,CRM-0005,Inform champion that PO timeline depends on portal approval,AE-02,after portal update,,Medium,procurement_vendor_setup,Portal approval pending,High,No,AE to tell champion that PO timeline depends on portal approval
+ACT-0005-03,CRM-0005,Notify customer once portal status changes,RevOps-01,when status changes,,Medium,procurement_vendor_setup,Portal approval pending,Medium,No,Customer wants confirmation once portal status changes
+ACT-0006-01,CRM-0006,Send import template and sample dashboard configuration,SE-02,before Thursday,2026-04-09,High,demo_pilot,Pilot enablement,High,No,Need SE to send import template before Thursday
+ACT-0006-02,CRM-0006,Schedule pilot check-in,CSM-01,next week,2026-04-13,Medium,meeting_scheduling,Limited admin bandwidth,High,No,CSM to schedule pilot check-in next week
+ACT-0007-01,CRM-0007,Share dashboard export sample,AE-02,date not mentioned,,Medium,proposal_collateral,Reporting gaps,Medium,Yes,asked for dashboard export sample
+ACT-0007-02,CRM-0007,Send list of current API limits,SE-01,date not mentioned,,Medium,technical_clarification,Reporting gaps,Medium,Yes,list of current API limits
+ACT-0007-03,CRM-0007,Confirm whether custom report is included in current package,RevOps-01,before next customer reply,,High,internal_approval,Package scope unclear,Medium,No,need internal decision on whether custom report is included
+ACT-0008-01,CRM-0008,Send SOC2 report and subprocessor list,AE-01,today,2026-04-09,High,legal_security_review,DPA closure pending,High,No,AE to send security docs today
+ACT-0008-02,CRM-0008,Review DPA redline once received,LegalOps,when redline is received,,High,legal_security_review,DPA closure pending,High,No,LegalOps should review redline when received
+ACT-0009-01,CRM-0009,Send intro pack and rough pricing band,AE-02,not specified,,Medium,pricing_quote,Early-stage info request,Medium,No,AE to send intro pack and rough pricing band
+ACT-0009-02,CRM-0009,Confirm CRM sync feasibility if connector details are shared,SE-02,conditional on prospect reply,,Low,technical_clarification,Connector details not shared,Medium,No,SE only needed if they reply with connector details
+ACT-0010-01,CRM-0010,Request approval for quarterly payment exception,Manager-01,before AE responds,,High,internal_approval,Payment exception approval,High,No,Sales manager needs to approve exception before AE responds
+ACT-0010-02,CRM-0010,Update contract start date to July 1 after approval,AE-02,after approval,2026-07-01,Medium,pricing_quote,Payment exception approval,Medium,No,asked for contract start date to align with July 1
+ACT-0011-01,CRM-0011,Confirm current use case in writing,AE-01,not specified,,Medium,account_research,Reopened opportunity context,High,No,Need AE to confirm use case in writing
+ACT-0011-02,CRM-0011,Ask whether previous security review can be reused,,not specified,,Medium,legal_security_review,Owner not listed,Low,Yes,No action owner listed for security reuse question
+ACT-0012-01,CRM-0012,Update CRM stage to Procurement,RevOps-01,today,2026-04-13,High,crm_update,CRM stage update,High,No,Need RevOps to update stage
+ACT-0012-02,CRM-0012,Upload latest champion email proof to CRM,AE-02,today,2026-04-13,High,crm_update,CRM evidence missing,High,No,AE to upload latest email proof
+ACT-0013-01,CRM-0013,Ask partner for discovery call notes,,not specified,,High,account_research,Insufficient partner context,Low,Yes,Need someone to ask partner for notes from discovery call
+ACT-0013-02,CRM-0013,Confirm owner for next customer meeting,,not specified,,High,meeting_scheduling,Owner unclear,Low,Yes,confirm who owns next customer meeting
+ACT-0014-01,CRM-0014,Send SSO and data-retention technical sheet,SE-01,by Fri,2026-04-17,High,technical_clarification,Security questionnaire pending,High,No,Need SE to send technical sheet by Fri
+ACT-0014-02,CRM-0014,Share revised commercial pack after technical sheet is sent,AE-01,after technical sheet,,High,pricing_quote,Security questionnaire pending,Medium,No,AE to share revised commercial pack after that
+ACT-0014-03,CRM-0014,Confirm procurement form status,RevOps-01,next week,2026-04-20,Medium,procurement_vendor_setup,Procurement form not started,High,No,Procurement form not started yet
+ACT-0015-01,CRM-0015,Send one-page demo recap without pricing details,,early next week,,Medium,demo_pilot,,Medium,Yes,Champion asked if we can send a 1-page recap
+ACT-0015-02,CRM-0015,Confirm whether connector setup requires admin rights,SE-02,early next week,,Medium,technical_clarification,,Medium,No,confirm whether connector setup needs admin rights
+ACT-0016-01,CRM-0016,Clarify one-time onboarding line item on prior invoice,RevOps-01,before Wednesday,2026-04-21,High,billing_clarification,Billing clarification,High,No,Need billing clarification before renewal quote is reissued
+ACT-0016-02,CRM-0016,Send revised renewal proposal,AE-02,by Wednesday,2026-04-22,High,renewal_commercial,Billing clarification,High,No,AE to send renewal proposal by Wednesday if billing confirms
+ACT-0017-01,CRM-0017,Send customer references from similar healthcare operations accounts,AE-01,next Tue,2026-04-21,Medium,account_research,Competitive review,High,No,asked for customer references from similar healthcare operations accounts
+ACT-0017-02,CRM-0017,Prepare simple ROI summary,AE-03,next Tue,2026-04-21,Medium,proposal_collateral,Competitive review,High,No,want a simple ROI summary
+ACT-0017-03,CRM-0017,Confirm whether annual billing is mandatory,RevOps-01,next Tue,2026-04-21,Medium,pricing_quote,,High,No,procurement asked if annual billing is mandatory
+ACT-0018-01,CRM-0018,Send revised quote for 75 seats,AE-01,today,2026-04-20,High,pricing_quote,Quote revision,High,No,AE should send new quote today
+ACT-0018-02,CRM-0018,Answer hosting/data residency region question,SE-01,not urgent,,Low,technical_clarification,,Medium,No,SE maybe needs to answer hosting region question
+ACT-0018-03,CRM-0018,Confirm Friday 4pm follow-up call,AE-01,Friday 4pm tentative,2026-04-24,Medium,meeting_scheduling,,Medium,Yes,tentatively Friday 4pm but not confirmed
+ACT-0019-01,CRM-0019,Complete vendor portal fields and upload tax/bank documents,RevOps-01,as soon as possible,,High,procurement_vendor_setup,Vendor registration incomplete,High,No,RevOps to complete vendor portal fields
+ACT-0019-02,CRM-0019,Inform champion that PO timeline depends on portal approval,AE-02,after portal update,,Medium,procurement_vendor_setup,Portal approval pending,High,No,AE to tell champion that PO timeline depends on portal approval
+ACT-0019-03,CRM-0019,Notify customer once portal status changes,RevOps-01,when status changes,,Medium,procurement_vendor_setup,Portal approval pending,Medium,No,Customer wants confirmation once portal status changes
+ACT-0020-01,CRM-0020,Send import template and sample dashboard configuration,SE-02,before Thursday,2026-04-23,High,demo_pilot,Pilot enablement,High,No,Need SE to send import template before Thursday
+ACT-0020-02,CRM-0020,Schedule pilot check-in,CSM-01,next week,2026-04-27,Medium,meeting_scheduling,Limited admin bandwidth,High,No,CSM to schedule pilot check-in next week
+ACT-0021-01,CRM-0021,Share dashboard export sample,AE-03,date not mentioned,,Medium,proposal_collateral,Reporting gaps,Medium,Yes,asked for dashboard export sample
+ACT-0021-02,CRM-0021,Send list of current API limits,SE-01,date not mentioned,,Medium,technical_clarification,Reporting gaps,Medium,Yes,list of current API limits
+ACT-0021-03,CRM-0021,Confirm whether custom report is included in current package,RevOps-01,before next customer reply,,High,internal_approval,Package scope unclear,Medium,No,need internal decision on whether custom report is included
+ACT-0022-01,CRM-0022,Send SOC2 report and subprocessor list,AE-02,today,2026-04-23,High,legal_security_review,DPA closure pending,High,No,AE to send security docs today
+ACT-0022-02,CRM-0022,Review DPA redline once received,LegalOps,when redline is received,,High,legal_security_review,DPA closure pending,High,No,LegalOps should review redline when received
+ACT-0023-01,CRM-0023,Send intro pack and rough pricing band,AE-02,not specified,,Medium,pricing_quote,Early-stage info request,Medium,No,AE to send intro pack and rough pricing band
+ACT-0023-02,CRM-0023,Confirm CRM sync feasibility if connector details are shared,SE-02,conditional on prospect reply,,Low,technical_clarification,Connector details not shared,Medium,No,SE only needed if they reply with connector details
+ACT-0024-01,CRM-0024,Request approval for quarterly payment exception,Manager-01,before AE responds,,High,internal_approval,Payment exception approval,High,No,Sales manager needs to approve exception before AE responds
+ACT-0024-02,CRM-0024,Update contract start date to July 1 after approval,AE-02,after approval,2026-07-01,Medium,pricing_quote,Payment exception approval,Medium,No,asked for contract start date to align with July 1
+ACT-0025-01,CRM-0025,Confirm current use case in writing,AE-01,not specified,,Medium,account_research,Reopened opportunity context,High,No,Need AE to confirm use case in writing
+ACT-0025-02,CRM-0025,Ask whether previous security review can be reused,,not specified,,Medium,legal_security_review,Owner not listed,Low,Yes,No action owner listed for security reuse question
+ACT-0026-01,CRM-0026,Update CRM stage to Procurement,RevOps-01,today,2026-04-27,High,crm_update,CRM stage update,High,No,Need RevOps to update stage
+ACT-0026-02,CRM-0026,Upload latest champion email proof to CRM,AE-02,today,2026-04-27,High,crm_update,CRM evidence missing,High,No,AE to upload latest email proof
+ACT-0027-01,CRM-0027,Ask partner for discovery call notes,,not specified,,High,account_research,Insufficient partner context,Low,Yes,Need someone to ask partner for notes from discovery call
+ACT-0027-02,CRM-0027,Confirm owner for next customer meeting,,not specified,,High,meeting_scheduling,Owner unclear,Low,Yes,confirm who owns next customer meeting
+ACT-0028-01,CRM-0028,Send SSO and data-retention technical sheet,SE-01,by Fri,2026-05-01,High,technical_clarification,Security questionnaire pending,High,No,Need SE to send technical sheet by Fri
+ACT-0028-02,CRM-0028,Share revised commercial pack after technical sheet is sent,AE-01,after technical sheet,,High,pricing_quote,Security questionnaire pending,Medium,No,AE to share revised commercial pack after that
+ACT-0028-03,CRM-0028,Confirm procurement form status,RevOps-01,next week,2026-05-04,Medium,procurement_vendor_setup,Procurement form not started,High,No,Procurement form not started yet
+ACT-0029-01,CRM-0029,Send one-page demo recap without pricing details,,early next week,,Medium,demo_pilot,,Medium,Yes,Champion asked if we can send a 1-page recap
+ACT-0029-02,CRM-0029,Confirm whether connector setup requires admin rights,SE-02,early next week,,Medium,technical_clarification,,Medium,No,confirm whether connector setup needs admin rights
+ACT-0030-01,CRM-0030,Clarify one-time onboarding line item on prior invoice,RevOps-01,before Wednesday,2026-05-05,High,billing_clarification,Billing clarification,High,No,Need billing clarification before renewal quote is reissued
+ACT-0030-02,CRM-0030,Send revised renewal proposal,AE-02,by Wednesday,2026-05-06,High,renewal_commercial,Billing clarification,High,No,AE to send renewal proposal by Wednesday if billing confirms
+ACT-0031-01,CRM-0031,Send customer references from similar saas operations accounts,AE-03,next Tue,2026-05-05,Medium,account_research,Competitive review,High,No,asked for customer references from similar saas operations accounts
+ACT-0031-02,CRM-0031,Prepare simple ROI summary,AE-03,next Tue,2026-05-05,Medium,proposal_collateral,Competitive review,High,No,want a simple ROI summary
+ACT-0031-03,CRM-0031,Confirm whether annual billing is mandatory,RevOps-01,next Tue,2026-05-05,Medium,pricing_quote,,High,No,procurement asked if annual billing is mandatory
+ACT-0032-01,CRM-0032,Send revised quote for 75 seats,AE-01,today,2026-05-04,High,pricing_quote,Quote revision,High,No,AE should send new quote today
+ACT-0032-02,CRM-0032,Answer hosting/data residency region question,SE-01,not urgent,,Low,technical_clarification,,Medium,No,SE maybe needs to answer hosting region question
+ACT-0032-03,CRM-0032,Confirm Friday 4pm follow-up call,AE-01,Friday 4pm tentative,2026-05-08,Medium,meeting_scheduling,,Medium,Yes,tentatively Friday 4pm but not confirmed
+ACT-0033-01,CRM-0033,Complete vendor portal fields and upload tax/bank documents,RevOps-01,as soon as possible,,High,procurement_vendor_setup,Vendor registration incomplete,High,No,RevOps to complete vendor portal fields
+ACT-0033-02,CRM-0033,Inform champion that PO timeline depends on portal approval,AE-02,after portal update,,Medium,procurement_vendor_setup,Portal approval pending,High,No,AE to tell champion that PO timeline depends on portal approval
+ACT-0033-03,CRM-0033,Notify customer once portal status changes,RevOps-01,when status changes,,Medium,procurement_vendor_setup,Portal approval pending,Medium,No,Customer wants confirmation once portal status changes
+ACT-0034-01,CRM-0034,Send import template and sample dashboard configuration,SE-02,before Thursday,2026-05-07,High,demo_pilot,Pilot enablement,High,No,Need SE to send import template before Thursday
+ACT-0034-02,CRM-0034,Schedule pilot check-in,CSM-01,next week,2026-05-11,Medium,meeting_scheduling,Limited admin bandwidth,High,No,CSM to schedule pilot check-in next week
+ACT-0035-01,CRM-0035,Share dashboard export sample,AE-03,date not mentioned,,Medium,proposal_collateral,Reporting gaps,Medium,Yes,asked for dashboard export sample
+ACT-0035-02,CRM-0035,Send list of current API limits,SE-01,date not mentioned,,Medium,technical_clarification,Reporting gaps,Medium,Yes,list of current API limits
+ACT-0035-03,CRM-0035,Confirm whether custom report is included in current package,RevOps-01,before next customer reply,,High,internal_approval,Package scope unclear,Medium,No,need internal decision on whether custom report is included
+ACT-0036-01,CRM-0036,Send SOC2 report and subprocessor list,AE-01,today,2026-05-07,High,legal_security_review,DPA closure pending,High,No,AE to send security docs today
+ACT-0036-02,CRM-0036,Review DPA redline once received,LegalOps,when redline is received,,High,legal_security_review,DPA closure pending,High,No,LegalOps should review redline when received
+ACT-0037-01,CRM-0037,Send intro pack and rough pricing band,AE-02,not specified,,Medium,pricing_quote,Early-stage info request,Medium,No,AE to send intro pack and rough pricing band
+ACT-0037-02,CRM-0037,Confirm CRM sync feasibility if connector details are shared,SE-02,conditional on prospect reply,,Low,technical_clarification,Connector details not shared,Medium,No,SE only needed if they reply with connector details
+ACT-0038-01,CRM-0038,Request approval for quarterly payment exception,Manager-01,before AE responds,,High,internal_approval,Payment exception approval,High,No,Sales manager needs to approve exception before AE responds
+ACT-0038-02,CRM-0038,Update contract start date to July 1 after approval,AE-03,after approval,2026-07-01,Medium,pricing_quote,Payment exception approval,Medium,No,asked for contract start date to align with July 1
+ACT-0039-01,CRM-0039,Confirm current use case in writing,AE-01,not specified,,Medium,account_research,Reopened opportunity context,High,No,Need AE to confirm use case in writing
+ACT-0039-02,CRM-0039,Ask whether previous security review can be reused,,not specified,,Medium,legal_security_review,Owner not listed,Low,Yes,No action owner listed for security reuse question
+ACT-0040-01,CRM-0040,Update CRM stage to Procurement,RevOps-01,today,2026-05-11,High,crm_update,CRM stage update,High,No,Need RevOps to update stage
+ACT-0040-02,CRM-0040,Upload latest champion email proof to CRM,AE-01,today,2026-05-11,High,crm_update,CRM evidence missing,High,No,AE to upload latest email proof
+ACT-0041-01,CRM-0041,Ask partner for discovery call notes,,not specified,,High,account_research,Insufficient partner context,Low,Yes,Need someone to ask partner for notes from discovery call
+ACT-0041-02,CRM-0041,Confirm owner for next customer meeting,,not specified,,High,meeting_scheduling,Owner unclear,Low,Yes,confirm who owns next customer meeting
+ACT-0042-01,CRM-0042,Send SSO and data-retention technical sheet,SE-01,by Fri,2026-05-15,High,technical_clarification,Security questionnaire pending,High,No,Need SE to send technical sheet by Fri
+ACT-0042-02,CRM-0042,Share revised commercial pack after technical sheet is sent,AE-02,after technical sheet,,High,pricing_quote,Security questionnaire pending,Medium,No,AE to share revised commercial pack after that
+ACT-0042-03,CRM-0042,Confirm procurement form status,RevOps-01,next week,2026-05-18,Medium,procurement_vendor_setup,Procurement form not started,High,No,Procurement form not started yet
+ACT-0043-01,CRM-0043,Send one-page demo recap without pricing details,,early next week,,Medium,demo_pilot,,Medium,Yes,Champion asked if we can send a 1-page recap
+ACT-0043-02,CRM-0043,Confirm whether connector setup requires admin rights,SE-02,early next week,,Medium,technical_clarification,,Medium,No,confirm whether connector setup needs admin rights
+ACT-0044-01,CRM-0044,Clarify one-time onboarding line item on prior invoice,RevOps-01,before Wednesday,2026-05-19,High,billing_clarification,Billing clarification,High,No,Need billing clarification before renewal quote is reissued
+ACT-0044-02,CRM-0044,Send revised renewal proposal,AE-02,by Wednesday,2026-05-20,High,renewal_commercial,Billing clarification,High,No,AE to send renewal proposal by Wednesday if billing confirms
+ACT-0045-01,CRM-0045,Send customer references from similar retail operations accounts,AE-03,next Tue,2026-05-19,Medium,account_research,Competitive review,High,No,asked for customer references from similar retail operations accounts
+ACT-0045-02,CRM-0045,Prepare simple ROI summary,AE-03,next Tue,2026-05-19,Medium,proposal_collateral,Competitive review,High,No,want a simple ROI summary
+ACT-0045-03,CRM-0045,Confirm whether annual billing is mandatory,RevOps-01,next Tue,2026-05-19,Medium,pricing_quote,,High,No,procurement asked if annual billing is mandatory
+ACT-0046-01,CRM-0046,Send revised quote for 75 seats,AE-01,today,2026-05-18,High,pricing_quote,Quote revision,High,No,AE should send new quote today
+ACT-0046-02,CRM-0046,Answer hosting/data residency region question,SE-01,not urgent,,Low,technical_clarification,,Medium,No,SE maybe needs to answer hosting region question
+ACT-0046-03,CRM-0046,Confirm Friday 4pm follow-up call,AE-01,Friday 4pm tentative,2026-05-22,Medium,meeting_scheduling,,Medium,Yes,tentatively Friday 4pm but not confirmed
+ACT-0047-01,CRM-0047,Complete vendor portal fields and upload tax/bank documents,RevOps-01,as soon as possible,,High,procurement_vendor_setup,Vendor registration incomplete,High,No,RevOps to complete vendor portal fields
+ACT-0047-02,CRM-0047,Inform champion that PO timeline depends on portal approval,AE-02,after portal update,,Medium,procurement_vendor_setup,Portal approval pending,High,No,AE to tell champion that PO timeline depends on portal approval
+ACT-0047-03,CRM-0047,Notify customer once portal status changes,RevOps-01,when status changes,,Medium,procurement_vendor_setup,Portal approval pending,Medium,No,Customer wants confirmation once portal status changes
+ACT-0048-01,CRM-0048,Send import template and sample dashboard configuration,SE-02,before Thursday,2026-05-21,High,demo_pilot,Pilot enablement,High,No,Need SE to send import template before Thursday
+ACT-0048-02,CRM-0048,Schedule pilot check-in,CSM-01,next week,2026-05-25,Medium,meeting_scheduling,Limited admin bandwidth,High,No,CSM to schedule pilot check-in next week
+ACT-0049-01,CRM-0049,Share dashboard export sample,AE-03,date not mentioned,,Medium,proposal_collateral,Reporting gaps,Medium,Yes,asked for dashboard export sample
+ACT-0049-02,CRM-0049,Send list of current API limits,SE-01,date not mentioned,,Medium,technical_clarification,Reporting gaps,Medium,Yes,list of current API limits
+ACT-0049-03,CRM-0049,Confirm whether custom report is included in current package,RevOps-01,before next customer reply,,High,internal_approval,Package scope unclear,Medium,No,need internal decision on whether custom report is included
+ACT-0050-01,CRM-0050,Send SOC2 report and subprocessor list,AE-01,today,2026-05-21,High,legal_security_review,DPA closure pending,High,No,AE to send security docs today
+ACT-0050-02,CRM-0050,Review DPA redline once received,LegalOps,when redline is received,,High,legal_security_review,DPA closure pending,High,No,LegalOps should review redline when received
+ACT-0051-01,CRM-0051,Send intro pack and rough pricing band,AE-02,not specified,,Medium,pricing_quote,Early-stage info request,Medium,No,AE to send intro pack and rough pricing band
+ACT-0051-02,CRM-0051,Confirm CRM sync feasibility if connector details are shared,SE-02,conditional on prospect reply,,Low,technical_clarification,Connector details not shared,Medium,No,SE only needed if they reply with connector details
+ACT-0052-01,CRM-0052,Request approval for quarterly payment exception,Manager-01,before AE responds,,High,internal_approval,Payment exception approval,High,No,Sales manager needs to approve exception before AE responds
+ACT-0052-02,CRM-0052,Update contract start date to July 1 after approval,AE-03,after approval,2026-07-01,Medium,pricing_quote,Payment exception approval,Medium,No,asked for contract start date to align with July 1
+ACT-0053-01,CRM-0053,Confirm current use case in writing,AE-02,not specified,,Medium,account_research,Reopened opportunity context,High,No,Need AE to confirm use case in writing
+ACT-0053-02,CRM-0053,Ask whether previous security review can be reused,,not specified,,Medium,legal_security_review,Owner not listed,Low,Yes,No action owner listed for security reuse question
+ACT-0054-01,CRM-0054,Update CRM stage to Procurement,RevOps-01,today,2026-05-25,High,crm_update,CRM stage update,High,No,Need RevOps to update stage
+ACT-0054-02,CRM-0054,Upload latest champion email proof to CRM,AE-02,today,2026-05-25,High,crm_update,CRM evidence missing,High,No,AE to upload latest email proof
+ACT-0055-01,CRM-0055,Ask partner for discovery call notes,,not specified,,High,account_research,Insufficient partner context,Low,Yes,Need someone to ask partner for notes from discovery call
+ACT-0055-02,CRM-0055,Confirm owner for next customer meeting,,not specified,,High,meeting_scheduling,Owner unclear,Low,Yes,confirm who owns next customer meeting
+ACT-0056-01,CRM-0056,Send SSO and data-retention technical sheet,SE-01,by Fri,2026-05-29,High,technical_clarification,Security questionnaire pending,High,No,Need SE to send technical sheet by Fri
+ACT-0056-02,CRM-0056,Share revised commercial pack after technical sheet is sent,AE-01,after technical sheet,,High,pricing_quote,Security questionnaire pending,Medium,No,AE to share revised commercial pack after that
+ACT-0056-03,CRM-0056,Confirm procurement form status,RevOps-01,next week,2026-06-01,Medium,procurement_vendor_setup,Procurement form not started,High,No,Procurement form not started yet
+ACT-0057-01,CRM-0057,Send one-page demo recap without pricing details,,early next week,,Medium,demo_pilot,,Medium,Yes,Champion asked if we can send a 1-page recap
+ACT-0057-02,CRM-0057,Confirm whether connector setup requires admin rights,SE-02,early next week,,Medium,technical_clarification,,Medium,No,confirm whether connector setup needs admin rights
+ACT-0058-01,CRM-0058,Clarify one-time onboarding line item on prior invoice,RevOps-01,before Wednesday,2026-06-02,High,billing_clarification,Billing clarification,High,No,Need billing clarification before renewal quote is reissued
+ACT-0058-02,CRM-0058,Send revised renewal proposal,AE-02,by Wednesday,2026-06-03,High,renewal_commercial,Billing clarification,High,No,AE to send renewal proposal by Wednesday if billing confirms
+ACT-0059-01,CRM-0059,Send customer references from similar real estate services accounts,AE-03,next Tue,2026-06-02,Medium,account_research,Competitive review,High,No,asked for customer references from similar real estate services accounts
+ACT-0059-02,CRM-0059,Prepare simple ROI summary,AE-03,next Tue,2026-06-02,Medium,proposal_collateral,Competitive review,High,No,want a simple ROI summary
+ACT-0059-03,CRM-0059,Confirm whether annual billing is mandatory,RevOps-01,next Tue,2026-06-02,Medium,pricing_quote,,High,No,procurement asked if annual billing is mandatory
+ACT-0060-01,CRM-0060,Send revised quote for 75 seats,AE-01,today,2026-06-01,High,pricing_quote,Quote revision,High,No,AE should send new quote today
+ACT-0060-02,CRM-0060,Answer hosting/data residency region question,SE-01,not urgent,,Low,technical_clarification,,Medium,No,SE maybe needs to answer hosting region question
+ACT-0060-03,CRM-0060,Confirm Friday 4pm follow-up call,AE-01,Friday 4pm tentative,2026-06-05,Medium,meeting_scheduling,,Medium,Yes,tentatively Friday 4pm but not confirmed
+ACT-0061-01,CRM-0061,Complete vendor portal fields and upload tax/bank documents,RevOps-01,as soon as possible,,High,procurement_vendor_setup,Vendor registration incomplete,High,No,RevOps to complete vendor portal fields
+ACT-0061-02,CRM-0061,Inform champion that PO timeline depends on portal approval,AE-02,after portal update,,Medium,procurement_vendor_setup,Portal approval pending,High,No,AE to tell champion that PO timeline depends on portal approval
+ACT-0061-03,CRM-0061,Notify customer once portal status changes,RevOps-01,when status changes,,Medium,procurement_vendor_setup,Portal approval pending,Medium,No,Customer wants confirmation once portal status changes
+ACT-0062-01,CRM-0062,Send import template and sample dashboard configuration,SE-02,before Thursday,2026-06-04,High,demo_pilot,Pilot enablement,High,No,Need SE to send import template before Thursday
+ACT-0062-02,CRM-0062,Schedule pilot check-in,CSM-01,next week,2026-06-08,Medium,meeting_scheduling,Limited admin bandwidth,High,No,CSM to schedule pilot check-in next week
+ACT-0063-01,CRM-0063,Share dashboard export sample,AE-03,date not mentioned,,Medium,proposal_collateral,Reporting gaps,Medium,Yes,asked for dashboard export sample
+ACT-0063-02,CRM-0063,Send list of current API limits,SE-01,date not mentioned,,Medium,technical_clarification,Reporting gaps,Medium,Yes,list of current API limits
+ACT-0063-03,CRM-0063,Confirm whether custom report is included in current package,RevOps-01,before next customer reply,,High,internal_approval,Package scope unclear,Medium,No,need internal decision on whether custom report is included
+ACT-0064-01,CRM-0064,Send SOC2 report and subprocessor list,AE-01,today,2026-06-04,High,legal_security_review,DPA closure pending,High,No,AE to send security docs today
+ACT-0064-02,CRM-0064,Review DPA redline once received,LegalOps,when redline is received,,High,legal_security_review,DPA closure pending,High,No,LegalOps should review redline when received
+ACT-0065-01,CRM-0065,Send intro pack and rough pricing band,AE-01,not specified,,Medium,pricing_quote,Early-stage info request,Medium,No,AE to send intro pack and rough pricing band
+ACT-0065-02,CRM-0065,Confirm CRM sync feasibility if connector details are shared,SE-02,conditional on prospect reply,,Low,technical_clarification,Connector details not shared,Medium,No,SE only needed if they reply with connector details
+ACT-0066-01,CRM-0066,Request approval for quarterly payment exception,Manager-01,before AE responds,,High,internal_approval,Payment exception approval,High,No,Sales manager needs to approve exception before AE responds
+ACT-0066-02,CRM-0066,Update contract start date to July 1 after approval,AE-03,after approval,2026-07-01,Medium,pricing_quote,Payment exception approval,Medium,No,asked for contract start date to align with July 1
+ACT-0067-01,CRM-0067,Confirm current use case in writing,AE-01,not specified,,Medium,account_research,Reopened opportunity context,High,No,Need AE to confirm use case in writing
+ACT-0067-02,CRM-0067,Ask whether previous security review can be reused,,not specified,,Medium,legal_security_review,Owner not listed,Low,Yes,No action owner listed for security reuse question
+ACT-0068-01,CRM-0068,Update CRM stage to Procurement,RevOps-01,today,2026-06-08,High,crm_update,CRM stage update,High,No,Need RevOps to update stage
+ACT-0068-02,CRM-0068,Upload latest champion email proof to CRM,AE-03,today,2026-06-08,High,crm_update,CRM evidence missing,High,No,AE to upload latest email proof
+ACT-0069-01,CRM-0069,Ask partner for discovery call notes,,not specified,,High,account_research,Insufficient partner context,Low,Yes,Need someone to ask partner for notes from discovery call
+ACT-0069-02,CRM-0069,Confirm owner for next customer meeting,,not specified,,High,meeting_scheduling,Owner unclear,Low,Yes,confirm who owns next customer meeting
+ACT-0070-01,CRM-0070,Send SSO and data-retention technical sheet,SE-01,by Fri,2026-06-12,High,technical_clarification,Security questionnaire pending,High,No,Need SE to send technical sheet by Fri
+ACT-0070-02,CRM-0070,Share revised commercial pack after technical sheet is sent,AE-01,after technical sheet,,High,pricing_quote,Security questionnaire pending,Medium,No,AE to share revised commercial pack after that
+ACT-0070-03,CRM-0070,Confirm procurement form status,RevOps-01,next week,2026-06-15,Medium,procurement_vendor_setup,Procurement form not started,High,No,Procurement form not started yet
+ACT-0071-01,CRM-0071,Send one-page demo recap without pricing details,,early next week,,Medium,demo_pilot,,Medium,Yes,Champion asked if we can send a 1-page recap
+ACT-0071-02,CRM-0071,Confirm whether connector setup requires admin rights,SE-02,early next week,,Medium,technical_clarification,,Medium,No,confirm whether connector setup needs admin rights
+ACT-0072-01,CRM-0072,Clarify one-time onboarding line item on prior invoice,RevOps-01,before Wednesday,2026-06-16,High,billing_clarification,Billing clarification,High,No,Need billing clarification before renewal quote is reissued
+ACT-0072-02,CRM-0072,Send revised renewal proposal,AE-01,by Wednesday,2026-06-17,High,renewal_commercial,Billing clarification,High,No,AE to send renewal proposal by Wednesday if billing confirms
+ACT-0073-01,CRM-0073,Send customer references from similar education services accounts,AE-03,next Tue,2026-06-16,Medium,account_research,Competitive review,High,No,asked for customer references from similar education services accounts
+ACT-0073-02,CRM-0073,Prepare simple ROI summary,AE-03,next Tue,2026-06-16,Medium,proposal_collateral,Competitive review,High,No,want a simple ROI summary
+ACT-0073-03,CRM-0073,Confirm whether annual billing is mandatory,RevOps-01,next Tue,2026-06-16,Medium,pricing_quote,,High,No,procurement asked if annual billing is mandatory
+ACT-0074-01,CRM-0074,Send revised quote for 75 seats,AE-01,today,2026-06-15,High,pricing_quote,Quote revision,High,No,AE should send new quote today
+ACT-0074-02,CRM-0074,Answer hosting/data residency region question,SE-01,not urgent,,Low,technical_clarification,,Medium,No,SE maybe needs to answer hosting region question
+ACT-0074-03,CRM-0074,Confirm Friday 4pm follow-up call,AE-01,Friday 4pm tentative,2026-06-19,Medium,meeting_scheduling,,Medium,Yes,tentatively Friday 4pm but not confirmed
+ACT-0075-01,CRM-0075,Complete vendor portal fields and upload tax/bank documents,RevOps-01,as soon as possible,,High,procurement_vendor_setup,Vendor registration incomplete,High,No,RevOps to complete vendor portal fields
+ACT-0075-02,CRM-0075,Inform champion that PO timeline depends on portal approval,AE-02,after portal update,,Medium,procurement_vendor_setup,Portal approval pending,High,No,AE to tell champion that PO timeline depends on portal approval
+ACT-0075-03,CRM-0075,Notify customer once portal status changes,RevOps-01,when status changes,,Medium,procurement_vendor_setup,Portal approval pending,Medium,No,Customer wants confirmation once portal status changes
+ACT-0076-01,CRM-0076,Send import template and sample dashboard configuration,SE-02,before Thursday,2026-06-18,High,demo_pilot,Pilot enablement,High,No,Need SE to send import template before Thursday
+ACT-0076-02,CRM-0076,Schedule pilot check-in,CSM-01,next week,2026-06-22,Medium,meeting_scheduling,Limited admin bandwidth,High,No,CSM to schedule pilot check-in next week
+ACT-0077-01,CRM-0077,Share dashboard export sample,AE-03,date not mentioned,,Medium,proposal_collateral,Reporting gaps,Medium,Yes,asked for dashboard export sample
+ACT-0077-02,CRM-0077,Send list of current API limits,SE-01,date not mentioned,,Medium,technical_clarification,Reporting gaps,Medium,Yes,list of current API limits
+ACT-0077-03,CRM-0077,Confirm whether custom report is included in current package,RevOps-01,before next customer reply,,High,internal_approval,Package scope unclear,Medium,No,need internal decision on whether custom report is included
+ACT-0078-01,CRM-0078,Send SOC2 report and subprocessor list,AE-01,today,2026-04-01,High,legal_security_review,DPA closure pending,High,No,AE to send security docs today
+ACT-0078-02,CRM-0078,Review DPA redline once received,LegalOps,when redline is received,,High,legal_security_review,DPA closure pending,High,No,LegalOps should review redline when received
+ACT-0079-01,CRM-0079,Send intro pack and rough pricing band,AE-02,not specified,,Medium,pricing_quote,Early-stage info request,Medium,No,AE to send intro pack and rough pricing band
+ACT-0079-02,CRM-0079,Confirm CRM sync feasibility if connector details are shared,SE-02,conditional on prospect reply,,Low,technical_clarification,Connector details not shared,Medium,No,SE only needed if they reply with connector details
+ACT-0080-01,CRM-0080,Request approval for quarterly payment exception,Manager-01,before AE responds,,High,internal_approval,Payment exception approval,High,No,Sales manager needs to approve exception before AE responds
+ACT-0080-02,CRM-0080,Update contract start date to July 1 after approval,AE-03,after approval,2026-07-01,Medium,pricing_quote,Payment exception approval,Medium,No,asked for contract start date to align with July 1
+ACT-0081-01,CRM-0081,Confirm current use case in writing,AE-01,not specified,,Medium,account_research,Reopened opportunity context,High,No,Need AE to confirm use case in writing
+ACT-0081-02,CRM-0081,Ask whether previous security review can be reused,,not specified,,Medium,legal_security_review,Owner not listed,Low,Yes,No action owner listed for security reuse question
+ACT-0082-01,CRM-0082,Update CRM stage to Procurement,RevOps-01,today,2026-04-06,High,crm_update,CRM stage update,High,No,Need RevOps to update stage
+ACT-0082-02,CRM-0082,Upload latest champion email proof to CRM,AE-01,today,2026-04-06,High,crm_update,CRM evidence missing,High,No,AE to upload latest email proof
+ACT-0083-01,CRM-0083,Ask partner for discovery call notes,,not specified,,High,account_research,Insufficient partner context,Low,Yes,Need someone to ask partner for notes from discovery call
+ACT-0083-02,CRM-0083,Confirm owner for next customer meeting,,not specified,,High,meeting_scheduling,Owner unclear,Low,Yes,confirm who owns next customer meeting
+ACT-0084-01,CRM-0084,Send SSO and data-retention technical sheet,SE-01,by Fri,2026-04-10,High,technical_clarification,Security questionnaire pending,High,No,Need SE to send technical sheet by Fri
+ACT-0084-02,CRM-0084,Share revised commercial pack after technical sheet is sent,AE-01,after technical sheet,,High,pricing_quote,Security questionnaire pending,Medium,No,AE to share revised commercial pack after that
+ACT-0084-03,CRM-0084,Confirm procurement form status,RevOps-01,next week,2026-04-13,Medium,procurement_vendor_setup,Procurement form not started,High,No,Procurement form not started yet
+ACT-0085-01,CRM-0085,Send one-page demo recap without pricing details,,early next week,,Medium,demo_pilot,,Medium,Yes,Champion asked if we can send a 1-page recap
+ACT-0085-02,CRM-0085,Confirm whether connector setup requires admin rights,SE-02,early next week,,Medium,technical_clarification,,Medium,No,confirm whether connector setup needs admin rights
+ACT-0086-01,CRM-0086,Clarify one-time onboarding line item on prior invoice,RevOps-01,before Wednesday,2026-04-14,High,billing_clarification,Billing clarification,High,No,Need billing clarification before renewal quote is reissued
+ACT-0086-02,CRM-0086,Send revised renewal proposal,AE-02,by Wednesday,2026-04-15,High,renewal_commercial,Billing clarification,High,No,AE to send renewal proposal by Wednesday if billing confirms
+ACT-0087-01,CRM-0087,Send customer references from similar professional services accounts,AE-02,next Tue,2026-04-14,Medium,account_research,Competitive review,High,No,asked for customer references from similar professional services accounts
+ACT-0087-02,CRM-0087,Prepare simple ROI summary,AE-03,next Tue,2026-04-14,Medium,proposal_collateral,Competitive review,High,No,want a simple ROI summary
+ACT-0087-03,CRM-0087,Confirm whether annual billing is mandatory,RevOps-01,next Tue,2026-04-14,Medium,pricing_quote,,High,No,procurement asked if annual billing is mandatory
+ACT-0088-01,CRM-0088,Send revised quote for 75 seats,AE-01,today,2026-04-13,High,pricing_quote,Quote revision,High,No,AE should send new quote today
+ACT-0088-02,CRM-0088,Answer hosting/data residency region question,SE-01,not urgent,,Low,technical_clarification,,Medium,No,SE maybe needs to answer hosting region question
+ACT-0088-03,CRM-0088,Confirm Friday 4pm follow-up call,AE-01,Friday 4pm tentative,2026-04-17,Medium,meeting_scheduling,,Medium,Yes,tentatively Friday 4pm but not confirmed
+ACT-0089-01,CRM-0089,Complete vendor portal fields and upload tax/bank documents,RevOps-01,as soon as possible,,High,procurement_vendor_setup,Vendor registration incomplete,High,No,RevOps to complete vendor portal fields
+ACT-0089-02,CRM-0089,Inform champion that PO timeline depends on portal approval,AE-01,after portal update,,Medium,procurement_vendor_setup,Portal approval pending,High,No,AE to tell champion that PO timeline depends on portal approval
+ACT-0089-03,CRM-0089,Notify customer once portal status changes,RevOps-01,when status changes,,Medium,procurement_vendor_setup,Portal approval pending,Medium,No,Customer wants confirmation once portal status changes
+ACT-0090-01,CRM-0090,Send import template and sample dashboard configuration,SE-02,before Thursday,2026-04-16,High,demo_pilot,Pilot enablement,High,No,Need SE to send import template before Thursday
+ACT-0090-02,CRM-0090,Schedule pilot check-in,CSM-01,next week,2026-04-20,Medium,meeting_scheduling,Limited admin bandwidth,High,No,CSM to schedule pilot check-in next week
+ACT-0091-01,CRM-0091,Share dashboard export sample,AE-01,date not mentioned,,Medium,proposal_collateral,Reporting gaps,Medium,Yes,asked for dashboard export sample
+ACT-0091-02,CRM-0091,Send list of current API limits,SE-01,date not mentioned,,Medium,technical_clarification,Reporting gaps,Medium,Yes,list of current API limits
+ACT-0091-03,CRM-0091,Confirm whether custom report is included in current package,RevOps-01,before next customer reply,,High,internal_approval,Package scope unclear,Medium,No,need internal decision on whether custom report is included
+ACT-0092-01,CRM-0092,Send SOC2 report and subprocessor list,AE-01,today,2026-04-15,High,legal_security_review,DPA closure pending,High,No,AE to send security docs today
+ACT-0092-02,CRM-0092,Review DPA redline once received,LegalOps,when redline is received,,High,legal_security_review,DPA closure pending,High,No,LegalOps should review redline when received
+ACT-0093-01,CRM-0093,Send intro pack and rough pricing band,AE-02,not specified,,Medium,pricing_quote,Early-stage info request,Medium,No,AE to send intro pack and rough pricing band
+ACT-0093-02,CRM-0093,Confirm CRM sync feasibility if connector details are shared,SE-02,conditional on prospect reply,,Low,technical_clarification,Connector details not shared,Medium,No,SE only needed if they reply with connector details
+ACT-0094-01,CRM-0094,Request approval for quarterly payment exception,Manager-01,before AE responds,,High,internal_approval,Payment exception approval,High,No,Sales manager needs to approve exception before AE responds
+ACT-0094-02,CRM-0094,Update contract start date to July 1 after approval,AE-01,after approval,2026-07-01,Medium,pricing_quote,Payment exception approval,Medium,No,asked for contract start date to align with July 1
+ACT-0095-01,CRM-0095,Confirm current use case in writing,AE-02,not specified,,Medium,account_research,Reopened opportunity context,High,No,Need AE to confirm use case in writing
+ACT-0095-02,CRM-0095,Ask whether previous security review can be reused,,not specified,,Medium,legal_security_review,Owner not listed,Low,Yes,No action owner listed for security reuse question
+ACT-0096-01,CRM-0096,Update CRM stage to Procurement,RevOps-01,today,2026-04-20,High,crm_update,CRM stage update,High,No,Need RevOps to update stage
+ACT-0096-02,CRM-0096,Upload latest champion email proof to CRM,AE-02,today,2026-04-20,High,crm_update,CRM evidence missing,High,No,AE to upload latest email proof
+ACT-0097-01,CRM-0097,Ask partner for discovery call notes,,not specified,,High,account_research,Insufficient partner context,Low,Yes,Need someone to ask partner for notes from discovery call
+ACT-0097-02,CRM-0097,Confirm owner for next customer meeting,,not specified,,High,meeting_scheduling,Owner unclear,Low,Yes,confirm who owns next customer meeting
+ACT-0098-01,CRM-0098,Send SSO and data-retention technical sheet,SE-01,by Fri,2026-04-24,High,technical_clarification,Security questionnaire pending,High,No,Need SE to send technical sheet by Fri
+ACT-0098-02,CRM-0098,Share revised commercial pack after technical sheet is sent,AE-01,after technical sheet,,High,pricing_quote,Security questionnaire pending,Medium,No,AE to share revised commercial pack after that
+ACT-0098-03,CRM-0098,Confirm procurement form status,RevOps-01,next week,2026-04-27,Medium,procurement_vendor_setup,Procurement form not started,High,No,Procurement form not started yet
+ACT-0099-01,CRM-0099,Send one-page demo recap without pricing details,,early next week,,Medium,demo_pilot,,Medium,Yes,Champion asked if we can send a 1-page recap
+ACT-0099-02,CRM-0099,Confirm whether connector setup requires admin rights,SE-02,early next week,,Medium,technical_clarification,,Medium,No,confirm whether connector setup needs admin rights
+ACT-0100-01,CRM-0100,Clarify one-time onboarding line item on prior invoice,RevOps-01,before Wednesday,2026-04-28,High,billing_clarification,Billing clarification,High,No,Need billing clarification before renewal quote is reissued
+ACT-0100-02,CRM-0100,Send revised renewal proposal,AE-02,by Wednesday,2026-04-29,High,renewal_commercial,Billing clarification,High,No,AE to send renewal proposal by Wednesday if billing confirms
